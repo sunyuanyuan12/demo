@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="zuobian2" unicode="&#58625;" d="M675.328 130.37381800000003L400.57018201 384l274.75781799 253.626182a34.909091 34.909091 0 1 1-47.36 51.316363l-302.545455-279.272727a34.909091 34.909091 0 0 1 0-51.316363l302.545455-279.272728a34.909091 34.909091 0 1 1 47.36 51.316364"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="left" unicode="&#58626;" d="M348.672 637.626182L623.42981799 384l-274.75781799-253.626182a34.909091 34.909091 0 1 1 47.36-51.316363l302.545455 279.272727a34.909091 34.909091 0 0 1 0 51.316363l-302.545455 279.272728a34.909091 34.909091 0 1 1-47.36-51.316364"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

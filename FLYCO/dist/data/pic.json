@@ -1,0 +1,95 @@
+
+  [{
+    "pic":[
+        
+            
+              {
+                "img":"images2/ia_200000033.jpg"
+              },
+              {
+                "img":"images2/ia_200000034.jpg"
+              },
+              {
+                "img":"images2/ia_200000035.jpg"
+              },
+              {
+                "img":"images2/ia_200000036.jpg"
+              },
+              {
+                "img":"images2/ia_200000037.jpg"
+              },
+              {
+                "img":"images2/ia_200000038.jpg"
+              },
+              {
+                "img":"images2/ia_200000039.jpg"
+              },
+              {
+                "img":"images2/ia_200000040.jpg"
+              },
+              
+              {
+                "img":"images2/ia_200000042.jpg"
+              },
+              {
+                "img":"images2/ia_200000043.jpg"
+              },
+              {
+                "img":"images2/ia_200000044.jpg"
+              },
+              {
+                "img":"images2/ia_200000045.jpg"
+              },
+              {
+                "img":"images2/ia_200000046.jpg"
+              }
+            ],
+            
+          
+         
+            
+    "pib":[   
+               {
+                "spanA":"产品功能",
+                "spanB":"负离子/恒温/冷热风"
+              },
+              {
+                "spanA":"风嘴样式",
+                "spanB":"集风嘴/柔风扩散风嘴/发梳风嘴"
+              },
+              {
+                "spanA":"调节档位",
+                "spanB":"3档"
+              },
+              {
+                "spanA":"颜色分类",
+                "spanB":">魅紫"
+              },
+              {
+                "spanA":"便携性能",
+                "spanB":"手柄不可折叠"
+              },
+              {
+                "spanA":"双重过热保险",
+                "spanB":"有"
+              },
+              {
+                "spanA":"最大功率",
+                "spanB":"1800W"
+              },
+              {
+                "spanA":"额定功率",
+                "spanB":"220V"
+              }
+        
+        ],
+        "pia":[   
+            {
+             "images":"产品功能",
+             "span":"负离子/恒温/冷热风"
+           }
+     
+     ]
+          
+    
+  }]

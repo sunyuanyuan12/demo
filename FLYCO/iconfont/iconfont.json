@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10035796",
+      "name": "左边",
+      "font_class": "zuobian2",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "11744003",
+      "name": "左边",
+      "font_class": "left",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    }
+  ]
+}

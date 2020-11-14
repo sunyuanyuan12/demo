@@ -1,0 +1,183 @@
+[{
+  "list":[
+    {
+      "title": "总排行榜",
+      "child": [
+        {
+          "img": "images/ia_100000061.png",
+          "span": "top",
+          "strg": "2",
+          "images": "images/ia_100000048.png",
+          "h3": "飞科理发器FC5902",
+          "strong": "合金刀头 / 强劲电机/ 充插两用"
+        },
+        {
+          "img": "images/ia_100000059.png",
+          "span": "top",
+          "strg": "1",
+          "images": "images/ia_100000042.png",
+          "h3": "飞科智能剃须刀",
+          "strong": "3刀头 / 1小时快充/ USB充电"
+        },
+        {
+          "img": "images/ia_100000057.png",
+          "span": "top",
+          "strg": "3",
+          "images": "images/ia_100000036.png",
+          "h3": "飞科电吹风FH6276",
+          "strong": "温和快干 莫兰迪色/ 多档调节"
+        }
+      ]
+    },
+    {
+      "title": "剃须刀排行榜",
+      "child": [
+        {
+          "img": "images/ia_100000061.png",
+          "span": "top",
+          "strg": "2",
+          "images": "images/ia_100000034.png",
+          "h3": "飞科剃须刀FS375",
+          "strong": "3刀头浮动 / 全身水洗/ 弹出鬓角刀"
+        },
+        {
+          "img": "images/ia_100000059.png",
+          "span": "top",
+          "strg": "1",
+          "images": "images/ia_100000036.png",
+          "h3": "飞科智能T恤刀",
+          "strong": "3刀头 / 1小时快充/ USB充电"
+        },
+        {
+          "img": "images/ia_100000057.png",
+          "span": "top",
+          "strg": "3",
+          "images": "images/ia_100000036.png",
+          "h3": "飞科电吹风FH6276",
+          "strong": "温和快干 莫兰迪色/ 多档调节"
+        }
+      ]
+    },
+    {
+      "title": "电吹风排行榜",
+      "child": [
+        {
+          "img": "images/ia_100000061.png",
+          "span": "top",
+          "strg": "2",
+          "images": "images/ia_100000040.png",
+          "h3": "飞科电吹风FHS375",
+          "strong": "健康柔风 / 强劲电机/ 折叠手柄"
+        },
+        {
+          "img": "images/ia_100000059.png",
+          "span": "top",
+          "strg": "1",
+          "images": "images/ia_100000042.png",
+          "h3": "飞科电吹风FH6276",
+          "strong": "温和快干 / 莫迪兰色/ 多档调节"
+        },
+        {
+          "img": "images/ia_100000057.png",
+          "span": "top",
+          "strg": "3",
+          "images": "images/ia_100000044.png",
+          "h3": "飞科电吹风FH6618",
+          "strong": "强劲大功率 负离子护发/ 防过热保护"
+        }
+      ]
+    },
+    {
+      "title": "理发器排行榜",
+      "child": [
+        {
+          "img": "images/ia_100000061.png",
+          "span": "top",
+          "strg": "2",
+          "images": "images/ia_100000046.png",
+          "h3": "飞科理发器FC5910",
+          "strong": "锐角刀头 / 超长续航/ USB充电"
+        },
+        {
+          "img": "images/ia_100000059.png",
+          "span": "top",
+          "strg": "1",
+          "images": "images/ia_100000048.png",
+          "h3": "飞科理发器FH6276",
+          "strong": "合金刀头 / 强劲电机/ 充插两用"
+        },
+        {
+          "img": "images/ia_100000057.png",
+          "span": "top",
+          "strg": "3",
+          "images": "images/ia_100000050.png",
+          "h3": "飞科理发器FH6618",
+          "strong": "合金刀头 / 强劲电机/ 充插两用"
+        }
+      ]
+    },
+    {
+      "title": "毛球修剪器排行榜",
+      "child": [
+        {
+          "img": "images/ia_100000061.png",
+          "span": "top",
+          "strg": "2",
+          "images": "images/ia_100000052.png",
+          "h3": "飞科毛球修剪器FHS375",
+          "strong": "1小时快充 / 即插即用/ Type-C充电"
+        },
+        {
+          "img": "images/ia_100000059.png",
+          "span": "top",
+          "strg": "1",
+          "images": "images/ia_100000054.png",
+          "h3": "飞科毛球修剪器FHS375",
+          "strong": "1小时快充 / 即插即用/ Type-C充电"
+        }
+      ]
+    },
+    {
+      "title": "智能插座排行榜",
+      "child": [
+        {
+          "img": "images/ia_100000061.png",
+          "span": "top",
+          "strg": "2",
+          "images": "images/ia_100000046.png",
+          "h3": "飞科USB插座FC5910",
+          "strong": "6插位带USB / 大空间距/ 1.8米线"
+        },
+        {
+          "img": "images/ia_100000059.png",
+          "span": "top",
+          "strg": "1",
+          "images": "images/ia_100000048.png",
+          "h3": "飞科USB插座FC5910",
+          "strong": "6插位带USB / 大空间距/ 1.8米线"
+        },
+        {
+          "img": "images/ia_100000057.png",
+          "span": "top",
+          "strg": "3",
+          "images": "images/ia_100000050.png",
+          "h3": "飞科USB插座FC5910",
+          "strong": "6插位带USB / 大空间距/ 1.8米线 "
+        }
+      ]
+    },
+    {
+      "title": "熨烫系列排行榜",
+      "child": [
+        {
+          "img": "images/ia_100000061.png",
+          "span": "top",
+          "strg": "2",
+          "images": "images/ia_100000062.png",
+          "h3": "飞科电熨斗FC5910",
+          "strong": "黄金特氟龙底板 / 喷水-爆炸蒸汽双按钮/ 支持垂直挂烫"
+        }
+      ]
+    }
+  ]
+}]
